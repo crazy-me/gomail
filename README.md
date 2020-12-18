@@ -1,2 +1,6 @@
 # gomail
-邮件示例
+`go get github.com/crazy-me/gomail`
+
+`go run main.go`
+
+``
