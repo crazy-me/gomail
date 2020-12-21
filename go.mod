@@ -1,4 +1,4 @@
-module gomail
+module github.com/crazy-me/gomail
 
 go 1.15
 

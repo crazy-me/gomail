@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"gomail/utils"
+	"github.com/crazy-me/gomail/utils"
 	"strings"
 	"sync"
 )
